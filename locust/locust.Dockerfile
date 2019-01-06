@@ -1,5 +1,5 @@
 FROM python:3.6.5
-LABEL maintainer="Partha Saradhi Konda<parthasaradhi.konda@inmar.com>"
+LABEL maintainer="Partha Saradhi Konda<parthasaradhi1992@gmail.com>"
 
 # Install locust
 RUN apt-get update && apt-get upgrade -y
